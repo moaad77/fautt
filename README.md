@@ -4,4 +4,4 @@
     border: solid 3px #000;
   }
 </style>
-<h1>HELLO!</h1>
+<h1 font-color : red >HELLO!</h1>
